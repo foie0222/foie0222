@@ -2,14 +2,14 @@
 class Engineer:
     def __init__(self):
         self.name = "foie0222"
-        self.focus = ["AWS", "AI Agents", "LangGraph"]
+        self.focus = ["AWS", "AI Agents"]
         self.awards = [
             "2025 Japan All AWS Certifications Engineers",
             "2024 Japan AWS All Certifications Engineers", 
             "2023 Japan AWS All Certifications Engineers"
         ]
         self.interests = {
-            "tech": ["Autonomous Agents", "Graph-based AI", "Cloud Architecture"],
+            "tech": ["LangGraph", "Cloud Architecture"],
             "life": ["⚽ Football", "⛳ Golf", "🐎 Horse Racing"]
         }
     
